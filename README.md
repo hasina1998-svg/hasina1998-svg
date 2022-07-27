@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasina Dhungel</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif">
+<img src="https://i.pinimg.com/originals/ee/e0/c1/eee0c1dc806da44930fc6eb26b94a737.gif" width='400px'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasina1998-svg&label=Profile%20views&color=0e75b6&style=flat" alt="hasina1998-svg" /> </p>
 
